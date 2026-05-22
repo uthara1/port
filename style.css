@@ -1,6 +1,6 @@
 /* Core Styling & Variables */
 :root {
-    --primary-color: #2563eb;
+    --primary-color: #600789;
     --text-color: #1f2937;
     --light-bg: #f3f4f6;
     --white: #ffffff;
@@ -211,7 +211,7 @@ nav a:hover {
 .edu-item .status {
     display: inline-block;
     background-color: #dbeafe;
-    color: #1e40af;
+    color: #8393ec;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
     font-size: 0.85rem;
